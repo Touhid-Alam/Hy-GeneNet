@@ -1,6 +1,3 @@
-<img width="6000" height="1057" alt="Methodology" src="https://github.com/user-attachments/assets/3bb6e5cd-97d2-45fb-a3bd-5da5136e1e86" /># Hy-GeneNet: A Hybrid Ensemble for DNA Gene Type Classification
-
-
 This repository contains the official source code and resources for the paper: **"Hy-GeneNet: A Hybrid Ensemble of N-Gram and Deep Learning Models for Reliable and Interpretable DNA Gene Type Classification"**.
 
 ## 📖 Table of Contents
